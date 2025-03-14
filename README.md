@@ -1,3 +1,5 @@
 # project
 this is my first git project
-author:pruthvi raj
+<br>
+Author:pruthvi raj
+<\br>
